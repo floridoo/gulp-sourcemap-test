@@ -11,8 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "~3.5.2",
-    "gulp-concat": "git://github.com/floridoo/gulp-concat.git#sourcemap_pipe",
-    "gulp-uglify": "git://github.com/floridoo/gulp-uglify.git#sourcemap_pipe",
+    "gulp-concat": "git://github.com/floridoo/gulp-concat.git#sourcemap_pipe2",
+    "gulp-uglify": "git://github.com/floridoo/gulp-uglify.git#sourcemap_pipe2",
     "gulp-sourcemaps": "git://github.com/floridoo/gulp-sourcemaps.git"
   }
 }
