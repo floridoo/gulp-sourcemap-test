@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "~3.5.2",
+    "gulp": "^3.8.5",
     "gulp-concat": "git://github.com/floridoo/gulp-concat.git#sourcemap_pipe2",
-    "gulp-uglify": "git://github.com/floridoo/gulp-uglify.git#sourcemap_pipe2",
-    "gulp-sourcemaps": "git://github.com/floridoo/gulp-sourcemaps.git"
+    "gulp-sourcemaps": "git://github.com/floridoo/gulp-sourcemaps.git",
+    "gulp-uglify": "^0.3.1"
   }
 }
